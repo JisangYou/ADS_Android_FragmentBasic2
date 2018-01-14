@@ -2,6 +2,7 @@
 
 ## 수업 내용
 - Fragment 간 데이터 전달 학습
+- Activity와 통신을 위한 Callback interface학습
 
 ## Code Review
 
